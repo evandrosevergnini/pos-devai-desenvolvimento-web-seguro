@@ -1,0 +1,12 @@
+[
+  {
+    "username": "severgnini",
+    "password": "$2a$10$BS9upzHM8Kyabzfco7BDoe7V27OIiepYE.3zG2HiF.r19i99cs/lS",
+    "mfaSecret": "OM3UII2JIQXX2NJ7EQ3S6XJFFZVSUWTV"
+  },
+  {
+    "username": "canal",
+    "password": "$2a$10$yKjaKEATCbaDOSZICllIb.Qa6knZUbD642KzeFmsD4XYx45ROsEL6",
+    "mfaSecret": "ERNHMU2GMU7CGZZ4JFSS4425KQ3SYOCK"
+  }
+]

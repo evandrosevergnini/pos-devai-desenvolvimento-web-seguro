@@ -1,0 +1,27 @@
+# Dependências do Node.js
+dist/
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Arquivos do ambiente
+.env
+.env.local
+.env.*.local
+
+# Cache do Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs
+debug.log
+*.log
+
+# Builds
+build/
+
+# Outros arquivos
+.DS_Store
+Thumbs.db
