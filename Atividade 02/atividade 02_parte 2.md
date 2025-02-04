@@ -168,7 +168,7 @@ app.post('/login', async (req, res) => {
 ---
 
 ## 📌 **6. Conclusão**
-Este projeto atende **todos os requisitos da Parte 2 do Trabalho** e implementa:
+Este projeto implementa:
 ✅ **Autenticação segura com bcrypt**  
 ✅ **Autenticação Multifator (MFA) com `speakeasy`**  
 ✅ **Proteção de rotas e gerenciamento de sessões**  
